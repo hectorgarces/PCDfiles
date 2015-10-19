@@ -20,3 +20,4 @@ En el nombre de cada fichero se especifica:
 Las nubes de puntos están formados por 2 tipos de puntos:
  - En verde, los puntos medidos correctamente por el escaner
  - En azul, los puntos de los que no se tiene una medida correcta por parte del escaner (o por reflejo, o por absorción)
+
